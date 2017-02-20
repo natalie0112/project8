@@ -10,7 +10,6 @@ table.center {
 
 table {
 	border-collapse: collapse;
-	width: 650px;
 	table-layout: fixed;
 }
 
